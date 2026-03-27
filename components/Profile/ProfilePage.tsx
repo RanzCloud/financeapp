@@ -36,7 +36,7 @@ export default function ProfilePage() {
           </button>
         </div>
         
-        <h2 className="text-2xl font-bold text-white mt-4">RANNCODING</h2>
+        <h2 className="text-2xl font-bold text-white mt-4">ranzcoding</h2>
         <p className="text-zinc-500 text-sm font-medium mb-1">Full Stack Developer</p>
         <button className="text-primary text-xs font-bold hover:underline">
           + Add Status
