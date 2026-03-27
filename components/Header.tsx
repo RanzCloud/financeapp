@@ -15,7 +15,7 @@ export default function Header() {
         </div>
         <div>
           <p className="text-zinc-400 text-[10px] font-medium tracking-wide uppercase">RANZCODE FORUM</p>
-          <h1 className="text-lg font-semibold text-white tracking-tight">Saanndec5ty</h1>
+          <h1 className="text-lg font-semibold text-white tracking-tight">ranzcoding</h1>
         </div>
       </div>
       
