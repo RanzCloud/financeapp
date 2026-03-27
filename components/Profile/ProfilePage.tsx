@@ -36,7 +36,7 @@ export default function ProfilePage() {
           </button>
         </div>
         
-        <h2 className="text-2xl font-bold text-white mt-4">SANNNDEC5TY</h2>
+        <h2 className="text-2xl font-bold text-white mt-4">RANNCODING</h2>
         <p className="text-zinc-500 text-sm font-medium mb-1">Full Stack Developer</p>
         <button className="text-primary text-xs font-bold hover:underline">
           + Add Status
@@ -79,7 +79,7 @@ export default function ProfilePage() {
                 </div>
                 <div className="flex-1 overflow-hidden">
                    <p className="text-[10px] text-zinc-500 font-bold uppercase tracking-wider mb-0.5">Email</p>
-                   <p className="text-sm text-white font-medium truncate">sannnforums@gmail.com</p>
+                   <p className="text-sm text-white font-medium truncate">ranzcode@ranz.xyz</p>
                 </div>
              </div>
 
@@ -90,7 +90,7 @@ export default function ProfilePage() {
                 </div>
                 <div>
                    <p className="text-[10px] text-zinc-500 font-bold uppercase tracking-wider mb-0.5">Phone</p>
-                   <p className="text-sm text-white font-medium">+62 812 3456 7890</p>
+                   <p className="text-sm text-white font-medium">+62 831 5914 4627</p>
                 </div>
              </div>
 
@@ -101,7 +101,7 @@ export default function ProfilePage() {
                 </div>
                 <div>
                    <p className="text-[10px] text-zinc-500 font-bold uppercase tracking-wider mb-0.5">Website</p>
-                   <p className="text-sm text-white font-medium">sannforums.design</p>
+                   <p className="text-sm text-white font-medium">rancode.xyz</p>
                 </div>
              </div>
 
@@ -112,7 +112,7 @@ export default function ProfilePage() {
                 </div>
                 <div>
                    <p className="text-[10px] text-zinc-500 font-bold uppercase tracking-wider mb-0.5">Location</p>
-                   <p className="text-sm text-white font-medium">Jakarta, Indonesia</p>
+                   <p className="text-sm text-white font-medium">bungo, jambi, Indonesia</p>
                 </div>
              </div>
 
